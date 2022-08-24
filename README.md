@@ -39,4 +39,3 @@ https://user-images.githubusercontent.com/35774039/186495454-1baee8bf-af71-4013-
 ![pumb](https://user-images.githubusercontent.com/35774039/186495953-e271e642-1d70-4420-92af-5c270d7d2d33.PNG)
 ![farkdadnan (1)](https://user-images.githubusercontent.com/35774039/186495961-3df7a111-ee44-409c-956b-07593f663fc2.JPG)
 ![farkdadnan (2)](https://user-images.githubusercontent.com/35774039/186495967-223b45d1-a1e3-4779-90ab-a85210005a95.jpg)
-![farkdadnan (3)](https://user-images.githubusercontent.com/35774039/186495990-372e97e6-846c-4145-a3f0-6450c50f9e77.jpg)
