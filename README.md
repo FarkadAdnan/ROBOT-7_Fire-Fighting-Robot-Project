@@ -2,7 +2,9 @@
 Chapter 1 code_Project_7 The Third Part 3 of "The Arduino World Book" code_Project_7 ROBOT-7_Fire Fighting Robot Project
 
 - code_Project_7
--  By:Farkad Adnan فرقد عدنان - 
+-  By:Farkad Adnan فرقد عدنان -
+- https://linktr.ee/farkadadnan
+
  - E-mail: farkad.hpfa95@gmail.com 
 - inst : farkadadnan 
 - #farkadadnan , #farkad_adnan , فرقد عدنان# 
